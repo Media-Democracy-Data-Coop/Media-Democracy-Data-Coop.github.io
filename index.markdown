@@ -3,5 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Media & Democracy Data Cooperative"
+
+# Media & Democracy Data Cooperative
+
+Welcome to the home page of the Media & Democracy Data Cooperative (MDDC). This website is under development
 ---
