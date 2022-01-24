@@ -4,5 +4,4 @@
 
 layout: home
 title: "Media & Democracy Data Cooperative"
-
 ---
