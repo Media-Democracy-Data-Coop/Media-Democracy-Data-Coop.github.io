@@ -5,6 +5,6 @@ permalink: /d2c/
 order: 3
 ---
 
-# 2022 D2C
+# D2C 2022
 
 The 2022 Digital Data Conference (D2C) will take place from April 14-15, 2022.
