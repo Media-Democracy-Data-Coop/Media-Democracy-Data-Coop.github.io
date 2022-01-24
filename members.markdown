@@ -2,6 +2,7 @@
 layout: page
 title: Members
 permalink: /members/
+order: 2
 ---
 
 # Institutional Members
