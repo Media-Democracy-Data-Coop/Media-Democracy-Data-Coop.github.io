@@ -5,6 +5,12 @@
 layout: home
 ---
 
+# MDDC
+
+{:refdef: style="text-align: center;"}
+![MDDC Logo](/assets/images/mddc_logo.png)
+{: refdef}
+
 Welcome to the home page of the Media & Democracy Data Cooperative (MDDC).
 
 This website is under development. Come back soon!
