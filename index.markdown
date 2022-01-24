@@ -6,6 +6,8 @@ layout: home
 ---
 # Media and Democracy Data Cooperative
 
-Welcome to the home page of the Media & Democracy Data Cooperative (MDDC). This website is under development.
+Welcome to the home page of the Media & Democracy Data Cooperative (MDDC). 
+
+This website is under development. Come back soon!
 
 For inquiries, please contact Jo Lukito.
