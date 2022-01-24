@@ -6,7 +6,7 @@ layout: home
 ---
 # MDDC
 
-Welcome to the home page of the Media & Democracy Data Cooperative (MDDC). 
+Welcome to the home page of the Media & Democracy Data Cooperative (MDDC).
 
 This website is under development. Come back soon!
 
