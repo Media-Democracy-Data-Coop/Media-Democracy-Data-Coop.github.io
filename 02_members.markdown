@@ -30,11 +30,11 @@ In addition to our membership, MDDC also works with **external collaborators**, 
 * Pushshift
 
 # Executive Board
-* Josephine "Jo" Lukito, CME (Chair)
+* Josephine "Jo" Lukito, CME *(Chair)*
 * Stu Soorholtz, CME (Data Engineer)
 * Paul Lockaby, CIP
 * Sang Jung Kim, SMAD/CCCR
 * Porsmita Borah, WSU
 * Jordan Foley, WSU
 * Amanda Alvarez, CSMaP
-* Ross Dahlke
+* Ross Dahlke, Stanford
