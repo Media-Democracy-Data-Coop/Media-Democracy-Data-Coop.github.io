@@ -18,3 +18,8 @@ On the **first day (April 14)**, we will focus on data collection tools and stra
 On the **second day (April 15)**, we will focus on digital data ethics, including privacy and fairness issues.  
 
 A full schedule will be released in February. Confirmed guest speakers and panelists include: Dr. David Lazar, Dr. Joan Donovan, Dr. Joshua Tucker, Dr. Dhavan Shah, and Dr. Kate Starbird. Demonstrations will include archives and tools such as: Junkipedia, Internet Archive, MediaCloud, and SMAT.
+
+{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}
+  <li><a href="{{node.url}}">{{node.title}}</a></li>
+{% endfor %}
