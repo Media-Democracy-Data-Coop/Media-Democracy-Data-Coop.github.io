@@ -26,9 +26,6 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Ross Dahlke, Stanford University
 * Joanne Nie, University of California, Los Angeles
 
-In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
-* Pushshift
-
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Chair)*
 * Stu Soorholtz, CME (Data Engineer)
@@ -38,3 +35,7 @@ In addition to our membership, MDDC also works with **external collaborators**, 
 * Jordan Foley, WSU
 * Amanda Alvarez, CSMaP
 * Ross Dahlke, Stanford
+
+# External Collaborators
+In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
+* Pushshift
