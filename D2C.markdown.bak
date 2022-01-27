@@ -2,8 +2,7 @@
 layout: page
 title: D2C
 permalink: /d2c/
-nav-include: true
-nav-order: 3
+order: 3
 ---
 
 # D2C 2022

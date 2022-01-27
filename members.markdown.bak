@@ -2,8 +2,7 @@
 layout: page
 title: Members
 permalink: /members/
-nav-include: true
-nav-order: 2
+order: 2
 ---
 
 The MDDC is a collaboration among researchers and research centers using digital data to study democracy and politics.
