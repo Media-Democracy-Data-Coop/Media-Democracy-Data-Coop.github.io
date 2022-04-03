@@ -5,8 +5,9 @@ permalink: /d2c/
 nav-include: true
 nav-order: 3
 ---
-
-![D2C-Logo](/images/D2C-Logo.png "D2C2022")
+<p align="center">	
+	<img src = "/images/D2C-Logo.png">
+</p>
 
 
 The 2022 Digital Data Conference (D2C) will take place from Thursday and Friday, April 14-15, 2022. D2C is generously sponsored by the [Social Science Research Council](https://www.ssrc.org/).
