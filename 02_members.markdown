@@ -11,14 +11,13 @@ The MDDC is a collaboration among researchers and research centers using digital
 # Institutional Members
 **Institutional members** include university-based research centers that study political communication.
 
-* Center for Media Engagement; University of Texas at Austin
-* Center for an Informed Public; University of Washington
-* Institute for Data, Democracy & Politics; George Washington University
-* Social Media & Democracy and the Center for Communication & Civic Renewal; University of Wisconsin, Madison
+* Center for Media Engagement (CME); University of Texas at Austin
+* Center for an Informed Public (CIP); University of Washington
+* Institute for Data, Democracy & Politics (IDDP); George Washington University
+* Social Media & Democracy (SMAD) and the Center for Communication & Civic Renewal (CCCR); University of Wisconsin, Madison
 * Media Forensics Lab; Clemson University
 * Edward R. Murrow College of Communication; Washington State University
-* Center for Social Media and Politics; New York University
-
+* Center for Social Media and Politics (CSMaP); New York University
 
 # Individual Members
 **Individual members** include researchers studying political communication that are not affiliated with an aformentioned institutional member.
