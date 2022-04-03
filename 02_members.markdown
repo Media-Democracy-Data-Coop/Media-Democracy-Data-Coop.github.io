@@ -16,7 +16,7 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Institute for Data, Democracy & Politics; George Washington University
 * Social Media & Democracy and the Center for Communication & Civic Renewal; University of Wisconsin, Madison
 * Media Forensics Lab; Clemson University
-* Communication Department; Washington State University
+* Edward R. Murrow College of Communication; Washington State University
 * Center for Social Media and Politics; New York University
 
 
@@ -28,12 +28,11 @@ The MDDC is a collaboration among researchers and research centers using digital
 
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Chair)*
-* Stu Soorholtz, CME (Data Engineer)
+* Stu Soorholtz, CME *(Data Engineer)*
 * Paul Lockaby, CIP
 * Sang Jung Kim, SMAD/CCCR
 * Porsmita Borah, WSU
 * Jordan Foley, WSU
-* Amanda Alvarez, CSMaP
 * Ross Dahlke, Stanford
 
 # External Collaborators
