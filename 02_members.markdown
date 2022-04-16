@@ -28,7 +28,7 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Meredith Pruden, University of North Carolina, Chapel Hill
 
 # Executive Board
-* Josephine "Jo" Lukito, CME *(Chair)*
+* Josephine "Jo" Lukito, CME *(Director)*
 * Stu Soorholtz, CME *(Head Data Engineer)*
 * Sang Jung Kim, SMAD/CCCR
 * Jordan Foley, WSU
