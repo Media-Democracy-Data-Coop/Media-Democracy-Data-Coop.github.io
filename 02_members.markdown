@@ -24,14 +24,15 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Yini Zhang, University of Buffalo
 * Ross Dahlke, Stanford University
 * Joanne Nie, University of California, Los Angeles
+* Jiyoun Suk, University of Connecticut
+* Meredith Pruden, University of North Carolina, Chapel Hill
 
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Chair)*
-* Stu Soorholtz, CME *(Data Engineer)*
-* Paul Lockaby, CIP
+* Stu Soorholtz, CME *(Head Data Engineer)*
 * Sang Jung Kim, SMAD/CCCR
-* Porsmita Borah, WSU
 * Jordan Foley, WSU
+* Yunkang Yang, IDDP
 * Ross Dahlke, Stanford
 
 # External Collaborators
