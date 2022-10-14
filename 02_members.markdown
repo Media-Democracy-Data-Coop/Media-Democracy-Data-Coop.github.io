@@ -29,7 +29,7 @@ The MDDC is a collaboration among researchers and research centers using digital
 
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Director)*
-* Stu Soorholtz, CME *(Head Data Engineer)*
+* Kaiya Soorholtz, CME *(Head Data Engineer)*
 * Sang Jung Kim, SMAD/CCCR
 * Jordan Foley, WSU
 * Yunkang Yang, IDDP
