@@ -23,7 +23,7 @@ Digital media are constantly changing. Unsurprisingly, this means that research 
 
 This report synthesizes the opinions and experiences of the data cooperative, as well as insights from the 2022 Digital Data Conference (D2C, see below). 
 
-This work was supported by the Social Science Research Council. 
+This work was supported by the [Social Science Research Council](https://www.ssrc.org/). 
 
 **Authors**
 - Dr. Josephine Lukito, Center for Media Engagement, University of Texas at Austin
