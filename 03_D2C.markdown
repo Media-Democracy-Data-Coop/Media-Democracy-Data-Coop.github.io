@@ -16,17 +16,16 @@ nav-order: 3
 	<img src = "/images/dmd.png">
 </p>
 
-<div align="center">
-	** The report can be found [here](/files/2023/State of Digital Media Data Research 2023.pdf). **
-</div>
 
-Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative is releasing this 2023 report on the State of Digital Media Data Research, highlighting the key challenges that digital media data (DMD) researchers face. The report is also a call to action for greater collaboration, transparency, preparation, and consistency within the interdisciplinary and growing DMD research community.
+** The report can be found [here](/files/2023/State of Digital Media Data Research 2023.pdf). **
+
+Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative is releasing this [2023 report on the State of Digital Media Data Research]((/files/2023/State of Digital Media Data Research 2023.pdf), highlighting the key challenges that digital media data (DMD) researchers face. The report is also a call to action for greater collaboration, transparency, preparation, and consistency within the interdisciplinary and growing DMD research community.
 
 This report synthesizes the opinions and experiences of the data cooperative, as well as insights from the 2022 Digital Data Conference (D2C, see below). 
 
 This work was supported by the Social Science Research Council. 
 
-Authors
+**Authors**
 - Dr. Josephine Lukito, Center for Media Engagement, University of Texas at Austin
 - Megan A. Brown, Center for Social Media and Politics, New York University
 - Ross Dahlke, Stanford University
@@ -41,7 +40,8 @@ Authors
 <h2> The 2022 Digital Data Conference </h2>
 The 2022 Digital Data Conference (D2C) took place on April 14-15, 2022. D2C was generously sponsored by the [Social Science Research Council](https://www.ssrc.org/) and hosted by the [Center for Media Engagement](https://mediaengagement.org/).
 
-**Organizing committee**: Jo Lukito (UT-Austin), Yunkang Yang (GWU), Jordan Foley (WSU), Sang Jung Kim (UW-Madison), Ross Dahlke (Stanford), and Meghann Norden-Bright (SSRC)
+**Organizing committee**: Jo Lukito (UT-Austin), Yunkang Yang (GWU), Jordan Foley (WSU), Sang Jung Kim (UW-Madison), Ross Dahlke (Stanford), and Meghann Norden-Bright (SSRC)  
+
 Many thanks to Megan Brown, Jiyoun Suk, Yini Zhang, Bin Chen, Kaiya Soorholtz for their assistance with organizing.
 
 **Day 1**
