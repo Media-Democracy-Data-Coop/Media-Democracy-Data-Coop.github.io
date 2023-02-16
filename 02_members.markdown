@@ -33,7 +33,8 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Sang Jung Kim, SMAD/CCCR
 * Jordan Foley, WSU
 * Yunkang Yang, IDDP
-* Ross Dahlke, Stanford
+* Ross Dahlke, Stanford *(Social Media Coordinator)*
+* Megan A. Brown, CSMaP
 
 # External Collaborators
 In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
