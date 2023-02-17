@@ -19,7 +19,7 @@ nav-order: 3
 
 **The report can be found [here](/files/2023/State of Digital Media Data Research 2023.pdf).**
 
-Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative is releasing the [2023 report on the State of Digital Media Data Research](/files/2023/State of Digital Media Data Research 2023.pdf, highlighting the key challenges that digital media data (DMD) researchers face. The report is also a call to action for greater collaboration, transparency, preparation, and consistency within the interdisciplinary and growing DMD research community.
+Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative is releasing the [2023 report on the State of Digital Media Data Research](/files/2023/State of Digital Media Data Research 2023.pdf), highlighting the key challenges that digital media data (DMD) researchers face. The report is also a call to action for greater collaboration, transparency, preparation, and consistency within the interdisciplinary and growing DMD research community.
 
 This report synthesizes the opinions and experiences of the data cooperative, as well as insights from the 2022 Digital Data Conference (D2C, see below). 
 
