@@ -45,9 +45,9 @@ The 2022 Digital Data Conference (D2C) took place on April 14-15, 2022. D2C was 
 Many thanks to Megan Brown, Jiyoun Suk, Yini Zhang, Bin Chen, Kaiya Soorholtz for their assistance with organizing.
 
 **Day 1**
-- Keynote: The State of Digital Data Research by Dr. Lazer, https://www.youtube.com/watch?v=Vr8zz9ax74o
-- Emerging Digital Data Tools Panel: https://www.youtube.com/watch?v=HggWHBsIxb4
+- Keynote: The State of Digital Data Research by Dr. Lazer, [https://www.youtube.com/watch?v=Vr8zz9ax74o](https://www.youtube.com/watch?v=Vr8zz9ax74o)
+- Emerging Digital Data Tools Panel: [https://www.youtube.com/watch?v=HggWHBsIxb4](https://www.youtube.com/watch?v=HggWHBsIxb4)
 
 **Day 2**
-- Keynote: Ethics Are Not Enough, Dr. Donovan, https://www.youtube.com/watch?v=nJGI5VDQj_8
-- KRN Research Centers' Approaches to Data Ethics Panel: https://www.youtube.com/watch?v=avNVySKYcnA
+- Keynote: Ethics Are Not Enough, Dr. Donovan, [https://www.youtube.com/watch?v=nJGI5VDQj_8](https://www.youtube.com/watch?v=nJGI5VDQj_8)
+- KRN Research Centers' Approaches to Data Ethics Panel: [https://www.youtube.com/watch?v=avNVySKYcnA](https://www.youtube.com/watch?v=avNVySKYcnA)
