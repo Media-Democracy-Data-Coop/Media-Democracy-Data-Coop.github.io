@@ -27,7 +27,7 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Sang Jung Kim, Uniersity of Iowa
 * Ayse D. Lokmanoglu, Boston University
 * Maggie Macdonald, University of Kentucky
-* Meredith Pruden, University of North Carolina, Chapel Hill
+* Meredith Pruden, Kennesaw State University
 * Sarah Shugars, Rutgers University
 * Jiyoun Suk, University of Connecticut
 * Yunkang Yang, Texas A&M
@@ -37,12 +37,15 @@ The MDDC is a collaboration among researchers and research centers using digital
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Director)*
 * Kaiya Soorholtz, CME *(Head Data Engineer)*
-* Sang Jung Kim, SMAD/CCCR
-* Jordan Foley, WSU
-* Yunkang Yang, IDDP
+* Yunkang Yang, Texas A&M
 * Ross Dahlke, Stanford *(Social Media Coordinator)*
 * Megan A. Brown, University of Michigan
 * Jason Greenfield, CSMaP
+* Wei  Zhong, CSMaP
+* Porsmita Borah, Washington State University
+* Yini Zhang, University of Buffalo
+* Jiyoun Suk, University of Connecticut
+* Meredith Pruden, Kennesaw State University
 
 # External Collaborators
 In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
