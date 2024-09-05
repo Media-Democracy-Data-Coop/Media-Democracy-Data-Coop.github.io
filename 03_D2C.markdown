@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DMD Report
+title: Digital Media Data Reports
 permalink: /dmd/
 nav-include: true
 nav-order: 3
@@ -8,7 +8,7 @@ nav-order: 3
 
 <h1>
 <p align="center">
-	The State of Digital Media Data Research, 2023
+	The State of Digital Media Data Research
 </p>
 </h1>	
 
@@ -19,9 +19,8 @@ nav-order: 3
 
 Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative releases an annual report on the State of Digital Media Data Research. 
 
-* [2024 Report](/files/State of Digital Media Data Research 2024.pdf), https://doi.org/10.26153/tsw/51921
-
-* [2023 Report](/files/State of Digital Media Data Research 2023.pdf), http://dx.doi.org/10.26153/tsw/46177
+* 2024 Report, [https://doi.org/10.26153/tsw/51921](/files/State of Digital Media Data Research 2024.pdf)
+* 2023 Report, [http://dx.doi.org/10.26153/tsw/46177](/files/State of Digital Media Data Research 2023.pdf)
 
 This work was supported by the [Social Science Research Council](https://www.ssrc.org/) and the [Knight Foundation](https://knightfoundation.org/).
 
