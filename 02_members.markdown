@@ -21,11 +21,18 @@ The MDDC is a collaboration among researchers and research centers using digital
 
 # Individual Members
 **Individual members** include researchers studying political communication that are not affiliated with an aformentioned institutional member.
-* Yini Zhang, University of Buffalo
+* Cody Buntain, University of Maryland
+* Bin Chen, The University of Hong Kong
 * Ross Dahlke, Stanford University
-* Joanne Nie, University of California, Los Angeles
-* Jiyoun Suk, University of Connecticut
+* Sang Jung Kim, Uniersity of Iowa
+* Ayse D. Lokmanoglu, Boston University
+* Maggie Macdonald, University of Kentucky
 * Meredith Pruden, University of North Carolina, Chapel Hill
+* Sarah Shugars, Rutgers University
+* Jiyoun Suk, University of Connecticut
+* Yunkang Yang, Texas A&M
+* Yini Zhang, University of Buffalo
+
 
 # Executive Board
 * Josephine "Jo" Lukito, CME *(Director)*
@@ -34,9 +41,11 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Jordan Foley, WSU
 * Yunkang Yang, IDDP
 * Ross Dahlke, Stanford *(Social Media Coordinator)*
-* Megan A. Brown, CSMaP
+* Megan A. Brown, University of Michigan
+* Jason Greenfield, CSMaP
 
 # External Collaborators
 In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
 * Pushshift
 * Q Origins
+* Algorithmic Transparenct Institute

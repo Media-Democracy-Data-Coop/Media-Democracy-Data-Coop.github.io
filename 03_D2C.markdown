@@ -17,25 +17,13 @@ nav-order: 3
 </p>
 
 
-**The report can be found [here](/files/2023/State of Digital Media Data Research 2023.pdf).**
+Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative releases an annual report on the State of Digital Media Data Research. 
 
-Digital media are constantly changing. Unsurprisingly, this means that research using digital media data also changes. In an effort to capture the trends in digital media data research, the Media & Democracy Data Cooperative is releasing the [2023 report on the State of Digital Media Data Research](/files/2023/State of Digital Media Data Research 2023.pdf), highlighting the key challenges that digital media data (DMD) researchers face. The report is also a call to action for greater collaboration, transparency, preparation, and consistency within the interdisciplinary and growing DMD research community.
+* [2024 Report](/files/State of Digital Media Data Research 2024.pdf), https://doi.org/10.26153/tsw/51921
 
-This report synthesizes the opinions and experiences of the data cooperative, as well as insights from the 2022 Digital Data Conference (D2C, see below). 
+* [2023 Report](/files/State of Digital Media Data Research 2023.pdf), http://dx.doi.org/10.26153/tsw/46177
 
-This work was supported by the [Social Science Research Council](https://www.ssrc.org/). 
-
-**Authors**
-- Dr. Josephine Lukito, Center for Media Engagement, University of Texas at Austin
-- Megan A. Brown, Center for Social Media and Politics, New York University
-- Ross Dahlke, Stanford University
-- Dr. Jiyoun Suk, University of Connecticut
-- Dr. Yunkang Yang, Texas A&M University
-- Dr. Yini Zhang, University at Buffalo
-- Bin Chen, Center for Media Engagement, University of Texas at Austin
-- Sang Jung Kim, Social Media and Democracy group, University of Wisconsin-Madison
-- Kaiya Soorholtz, Center for Media Engagement, University of Texas at Austin
-
+This work was supported by the [Social Science Research Council](https://www.ssrc.org/) and the [Knight Foundation](https://knightfoundation.org/).
 
 <h2> The 2022 Digital Data Conference </h2>
 The 2022 Digital Data Conference (D2C) took place on April 14-15, 2022. D2C was generously sponsored by the [Social Science Research Council](https://www.ssrc.org/) and hosted by the [Center for Media Engagement](https://mediaengagement.org/).

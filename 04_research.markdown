@@ -8,11 +8,11 @@ nav-order: 4
 
 In addition to collaborating on the Data Library, MDDC members also conduct research together.
 
-# ICA 2022
-Three MDDC papers were accepted to the 2022 [International Communication Association](https://www.icahdq.org/) Conference.
+# Peer-Reviewed Publications
 
-Kim, S. J., Yunkang, Y., Lukito, J., Borah, P., Foley, J. Network of the fringe and the fore: Link sharing patterns across Parler and Facebook on QAnon discourses.
+Lukito, J., Greenfield, J., Yang, Y., Dahlke, R., Brown, M. A., Lewis, R., & Chen, B. (2024). Audio-as-Data Tools: Replicating Computational Data Processing. Media and Communication, 12. https://www.cogitatiopress.com/mediaandcommunication/article/view/7851
 
-Dahlke, R., Lukito, J., Hyang, E., Nie, J., Chen, B., & Borah, P. "But his emails": The mobilizing effects of Donald Trump emails on political donations.
+Chen, B., Borah, P., Dahlke, R., & Lukito, J. (2024). Battle for Inbox and Bucks: Comparing Email Fundraising Strategies of Donald Trump and Joe Biden in the 2020 US Presidential Election. Journal of Quantitative Description: Digital Media, 4. https://journalqd.org/article/download/4299/4532
 
-Lukito, J., Gursky, J., Foley, J., Yang, J., Borah, P., & Joseff, K. “No reason [.] it should happen here”: Understanding Flynn’s Retroactive Doublespeak during a QAnon Event.
+Lukito, J., Gursky, J., Foley, J., Yang, Y., Joseff, K., & Borah, P. (2023). “No Reason [.][I] t/Should/Happen here”: Analyzing Flynn’s Retroactive Doublespeak During a QAnon Event. Political Communication, 40(5), 576-595. https://doi.org/10.1080/10584609.2023.2185332
+
