@@ -34,19 +34,6 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Yini Zhang, University of Buffalo
 
 
-# Executive Board
-* Josephine "Jo" Lukito, CME *(Director)*
-* Kaiya Soorholtz, CME *(Head Data Engineer)*
-* Yunkang Yang, Texas A&M
-* Ross Dahlke, Stanford *(Social Media Coordinator)*
-* Megan A. Brown, University of Michigan
-* Jason Greenfield, CSMaP
-* Wei  Zhong, CSMaP
-* Porsmita Borah, Washington State University
-* Yini Zhang, University of Buffalo
-* Jiyoun Suk, University of Connecticut
-* Meredith Pruden, Kennesaw State University
-
 # External Collaborators
 In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
 * Pushshift
