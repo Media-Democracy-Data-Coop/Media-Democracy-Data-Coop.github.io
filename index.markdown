@@ -12,4 +12,4 @@ nav-include: no
 
 Welcome to the home page of the Media & Democracy Data Cooperative (MDDC). 	
 
-The Media and Democracy Data Cooperative (MDDC, pronounced "medic") is a collaborative effort across multiple research centers to advance research using digital data, particularly in the areas of political media and communication. MDDC's mission has two pillars: (1) to advance digital data collection efforts and (2) to provide opportunities for collaborative research across our members.
+MDDC is a collaborative effort across multiple research centers to advance research using digital data, in the areas of political media and communication. MDDC has two missions: (1) to advance digital data collection efforts and (2) to provide opportunities for collaborative research for members.
