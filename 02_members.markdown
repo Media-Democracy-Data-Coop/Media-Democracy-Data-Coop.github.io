@@ -29,6 +29,7 @@ The MDDC is a collaboration among researchers and research centers using digital
 * Maggie Macdonald, University of Kentucky
 * Meredith Pruden, Kennesaw State University
 * Sarah Shugars, Rutgers University
+* Marisa A. Smith, Michigan State University
 * Jiyoun Suk, University of Connecticut
 * Yunkang Yang, Texas A&M
 * Yini Zhang, University of Buffalo
