@@ -8,35 +8,36 @@ nav-order: 2
 
 The MDDC is a collaboration among researchers and research centers using digital data to study democracy and politics.
 
-# Institutional Members
-**Institutional members** include university-based research centers that study political communication.
+# Executive Board
 
-* Center for Media Engagement (CME); University of Texas at Austin
-* Center for an Informed Public (CIP); University of Washington
-* Institute for Data, Democracy & Politics (IDDP); George Washington University
-* Social Media & Democracy (SMAD) and the Center for Communication & Civic Renewal (CCCR); University of Wisconsin, Madison
-* Media Forensics Lab; Clemson University
-* Edward R. Murrow College of Communication; Washington State University
-* Center for Social Media and Politics (CSMaP); New York University
+* Josephine Lukito, Southern Denmark University - Director
 
-# Individual Members
-**Individual members** include researchers studying political communication that are not affiliated with an aformentioned institutional member.
+* Megan A. Brown, University of Michigan — Associate Director
+* Cody Buntain, University of Maryland — Grant Lead
+* Ross Dahlke, University of Wisconsin — Research Chair
+* Meredith L. Pruden, Kennesaw State University — Grant Lead
+* Marisa A. Smith, Michigan State University — Publicity Lead
+
+# Members
+
+* Porismita Borah, Washington State University
+* Megan A. Brown, University of Michigan
 * Cody Buntain, University of Maryland
-* Bin Chen, The University of Hong Kong
-* Ross Dahlke, Stanford University
-* Sang Jung Kim, Uniersity of Iowa
+* Ross Dahlke, University of Wisconsin
+* Bin Chen, University of Hong Kong
+* Jason Greenfield, Princeton University
+* Sang Jung Kim, University of Iowa
 * Ayse D. Lokmanoglu, Boston University
 * Maggie Macdonald, University of Kentucky
-* Meredith Pruden, Kennesaw State University
+* Siva Naraharisetty, University of Texas at Austin
+* Stephen Prochaska, University of Washington
+* Meredith L. Pruden, Kennesaw State University
+* Ashwin Rajadesingan, University of Texas at Austin
 * Sarah Shugars, Rutgers University
 * Marisa A. Smith, Michigan State University
 * Jiyoun Suk, University of Connecticut
-* Yunkang Yang, Texas A&M
+* Yunkang Yang, Texas A&M University
 * Yini Zhang, University of Buffalo
+* Wei Zhong, Stony Brook University
 
 
-# External Collaborators
-In addition to our membership, MDDC also works with **external collaborators**, which include non-profit organizations, industry researchers, and archivists.
-* Pushshift
-* Q Origins
-* Algorithmic Transparenct Institute
