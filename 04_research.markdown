@@ -12,6 +12,8 @@ In addition to collaborating on the Data Library, MDDC members also conduct rese
 
 ## 2026
 
+Lukito, J., Zhang, Y., Chen, B., Prochaska, S., Pruden, M. L., Yang, Y., Zhong, W., Brown, M. A., Dahlke, R., Greenfield, J., Suk, J., & Borah, P. (2026). Cross-platformization: How U.S. right-leaning media curate their posts on Twitter and Truth Social. New Media & Society, 0(0). https://doi.org/10.1177/14614448261470889
+
 Lukito, J., Pruden, M. L., Suk, J., Yang, Y., & Zhong, W. (2026). Political Communication Special Issue Introduction: Multi-Platform Research. Political Communication, 43(2), 175–191. https://doi.org/10.1080/10584609.2026.2649632
 
 Brown, M. A., Macdonald, M., Lukito, J., Hickey, C., Dowling, K., & Miranda, M. (2026). Candidata: United States 2024 Elections Candidates and Social Media Handles. Proceedings of the International AAAI Conference on Web and Social Media, 20(1), 2747–2755. https://doi.org/10.1609/icwsm.v20i1.42779
